@@ -1,4 +1,4 @@
-import Hilights from "./components/Hilights"
+import Highlights from "./components/Highlights"
 import Navbar from "./components/Navbar"
 import Hero from "./components/Hero"
 
@@ -11,7 +11,7 @@ function App() {
       <main className="bg-black">
         <Navbar/>
         <Hero/>
-        <Hilights/>
+        <Highlights/>
       </main>
     </>
   )
