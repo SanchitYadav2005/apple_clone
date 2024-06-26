@@ -1,5 +1,5 @@
 const ModelView = () => {
-    return (  );
+    return ( <></> );
 }
  
 export default ModelView;
